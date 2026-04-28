@@ -14,10 +14,10 @@ This project demonstrates the design and configuration of a multi-router and mul
 ## 📂 Project Files
 
 * Hospital-Network-Project.pkt
-* topology-1.png
-* topology-2.png
-* ping.png
-* route.png
+* Topology_1.png
+* Topology_2.png
+* Ping.png
+* Route.png
 
 ## 📊 Description
 
